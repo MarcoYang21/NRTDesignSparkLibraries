@@ -1,0 +1,15 @@
+ESPLORA_SHIELD||#ESPLORA_SHIELD=24||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+LED-DUALCOLOR3MM-THROUGH-HOLE||#LED-DUALCOLOR-3MM=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+LTC6078||#MSOP8=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MOSFET-PCHANNEL||#SOT23-3=3||@PROD_ID=TRANS-08285||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MOSFET-PCHANNELDMG2307L||#SOT23-3=3||@PROD_ID=TRANS-11308||@VALUE=2.5A/30V||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MOSFET-PCHANNELFDS6675||#SO08=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MOSFET-PCHANNELFQP27P06||#TO220V=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MOSFET-PCHANNELIRLML2244||#SOT23-3=3||@PROD_ID=TRANS-11153||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MOSFET-PCHANNELSMD||#SOT23-3=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+TRANSISTOR_PNPBC558||#TO-92-AMMO=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+TRANSISTOR_PNPMMBT4403||#SOT23-3=3||@PROD_ID=TRANS-09245||@VALUE=MMBT4403||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+TRANSISTOR_PNPPMBT3906||#SOT23-3=3||@PROD_ID=TRANS-08052||@VALUE=PMBT3906||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+TRANSISTOR_PNPSMD||#SOT23-3=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+TRANSISTOR_PNPSMD-2||#SOT89=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+TRANSISTOR_PNPTO92||#TO-92=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=

@@ -1,0 +1,23 @@
+DOCFIELD1
+DOCFIELD2
+FIDUCIAL||#FIDUCIAL=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FRAME1-A4
+FRAME2-A4
+FT232R||#SSOP-28=28||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+HEADER-06X1-FEMALE||#06X1-PTH=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+HEADER-06X1-MALE||#06X1-PTH=6||@DIGIKEY=||@ELEMENT14=||@OTHER=4UCON 00834||@URL=http://www.4uconnector.com/online/SearchPro.asp?FormName=ProSearch&FormAction=search&s_GroupNo=&s_keyword=00834||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+LCD16X2-RGB||#LCD16X2-RGB=22||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+LTC2954||#SOT23-8=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MCP1640||#SOT23-6=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MCP73831||#SOT23-5=5||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+N-CHANNEL-MOSFET-BSS138||#SOT23-3=3||@DATASHEET=http://www.fairchildsemi.com/ds/BS/BSS138.pdf||@DIGIKEY=BSS138TR-ND||@ELEMENT14=2323154||@OTHER=||@URL=http://au.element14.com/fairchild-semiconductor/bss138/mosfet-n-ch-50v-220ma-sot-23/dp/2323154||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+P-CHANNEL-MOSFET||#SOT23-3=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+PI-IO||#13X2-PTH=26||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+PIC18F2_28||#S0-28W=28||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+PTC||#MC331XX=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+RF22301||#RFD22301=19||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+RTRIM-3362P||#RTRIM3362P=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+TACTILE-SWITCH-7914G||#7914G=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+TACTILE-SWITCH-PTH||#TAC-SWITCH-PTH=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+USB-CON-4PIN||#USB-MALE-A-PCB=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+USB-CON-5PIN-105017-0001||#USB-MICRO-MOLEX-105017-0001=9||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=

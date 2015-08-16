@@ -1,0 +1,49 @@
+1.0V
+1.8V
+2.8V
+3.3V
+5V
+12V
+AGND
+BADGERHACK_LOGO||#BADGER_HACK=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+BADGERHACK_LOGODUMMY||#DUMMY=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+BREADBOARD_PATTERN||#BREADBOARD_SPACING=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+DGND
+FIDUCIAL1X2||#FIDUCIAL-1X2=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FIDUCIALTAB||#FIDUCIALTAB=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FIDUCIALUFIDUCIAL||#MICRO-FIDUCIAL=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FIO_LOGOV2||#FUNNEL_LOGO_BOTTOM_V2=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FKIT-LOGO-MEDIUM||#FKIT-LOGO_MEDIUM=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FKIT-LOGO-SMALL||#FKIT-LOGO_SMALL=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FKIT-LOGO-VERY_SMALL||#FKIT-LOGO_VERY_SMALL=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FKIT-LOGO-VERY_SMALL_VECTOR||#FKIT-LOGO_VERY_SMALL=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FKIT-LOGOTYPE-MEDIUM||#FKIT-LOGOTYPE_MEDIUM=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FKIT-LOGOTYPE-SMALL||#FKIT-LOGOTYPE_SMALL=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FKIT-LOGOTYPE-VERY_SMALL||#FKIT-LOGOTYPE_VERY_SMALL=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FOUR_LAYER_WARNING||#FOUR_LAYER_WARNING=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FRAME-A4L
+FRAME-LEDGER||#CREATIVE_COMMONS=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FRAME-LETTER||#CREATIVE_COMMONS=0||@DESIGNER=NAME||@VERSION=v01||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+FRAME-LETTERNO_PACKAGE||#DUMMY=0||@DESIGNER=Nobody||@VERSION=v01||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+GESTURESENSE_LOGOSNOTEXT||#GESTURESENSE_NOTEXT=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+GESTURESENSE_LOGOSTEXT||#GESTURESENSE_TEXT=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+GND
+GND-ISO
+GND2
+IOIO-OTG||#IOIO-OTG-COPPER-EXPOSED=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+LOGO-OTL||#OVERTONE_LOGO=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+LOGOMATIC_LOGO||#LOGOMATIC_LOGO=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MIGHTYQ-L-SILK||#LOGO-LARGE-SILK=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MIGHTYQ-S-SILK||#LOGO-SMALL-SILK=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+OSHW-LOGO-COPPERL||#OSHW-LOGO-L=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+OSHW-LOGO-COPPERM||#OSHW-LOGO-M=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+OSHW-LOGO-COPPERS||#OSHW-LOGO-S=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+OSHW-LOGOL||#OSHW-LOGO-L=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+OSHW-LOGOM||#OSHW-LOGO-M=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+OSHW-LOGOS||#OSHW-LOGO-S=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+QDUINOMINI||#QDUINO_MINI_V15=27||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+QHEADERS||#QDUINO_MINI_V15=27||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+REDBOT_LOGO||#REDBOT_LOGO=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+REVISION||#REVISION=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SFE_LOGO_FLAME.1COP||#SFE_LOGO_FLAME_COPPER_.1=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SFE_LOGO_FLAME.1EXP
