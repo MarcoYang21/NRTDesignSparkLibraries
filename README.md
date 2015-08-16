@@ -9,5 +9,7 @@ in 6.1, but I am pretty sure they will not work in that version now.
 ##Installation
 
 Start DesignSpark 7.1 and go to the Files->Libraries menu. Then select the Folders tab. Click
-the Add button and then Browse. Select this repository folder and click the Add button. Be 
-sure that the Folder Enabled checkbox is checked. These libraries should now be available.
+the Add button and then Browse. Select the first folder in this repository (not 3DModles) 
+and click the Add button. Be sure that the Folder Enabled checkbox is checked. 
+Repeat this step for all folders in the repository except 3DModels. 
+These libraries should now be available.
