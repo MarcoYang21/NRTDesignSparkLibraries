@@ -91,7 +91,7 @@ POWER_JACKS_BREAD_NT||#POWER_JACK_SLOT=3||@PROD_ID=PRT-00119||@Manufacturer_Part
 PRPC003SAAN-RC||#DIL=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 RMCF0805JT200RTR-ND||#SM=0||@Manufacturer_Part_Number=RMCF0805JT200R||@Manufacturer_Name=Stackpole Electronics Inc||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=||@Digikey Part Number=RMCF0805JT200RCT-ND
 RNCP0603FTD200R||#SM=0||@Manufacturer_Part_Number=RNCP0603FTD200R||@Manufacturer_Name=Stackpole Electronics Inc||@RS Part Number=||@Allied_Number=DIGIKEY||@Other Part Number=RNCP0603FTD200RCT-ND||@3D Package=||@Height=
-RXEF020S||#RXEF020S=2||@Manufacturer_Part_Number=RXEF020S||@Manufacturer_Name=TE Connectivity||@RS Part Number=||@Allied_Number=||@Other Part Number=650-RXEF020S||@3D Package=||@Height=
+RXEF020S||#RXEF020S=2||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=TE Connectivity||@Manufacturer_Part_Number=RXEF020S||@Other Part Number=650-RXEF020S||@3D Package=||@Height=
 SN74LS241N||#DIL=20||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 SN74LS241NSR||#SM=20||@Manufacturer_Part_Number=SN74LS241NSR||@Manufacturer_Name=Texas Instruments||@RS Part Number=||@Allied_Number=||@Other Part Number=595-SN74LS241NSR||@3D Package=||@Height=
 SN74LVC2G241DCTR||#SM=8||@Manufacturer_Part_Number=SN74LVC2G241DCTR||@Manufacturer_Name=Texas Instruments||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=||@Mouser Part Number=595-SN74LVC2G241DCTR
