@@ -13,6 +13,7 @@
 0.1_IDC_8-Pin||#DIL=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 0.1_IDC_8-Pin_Shrouded||#DIL=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 0.1_IDC_10-Pin_Shrouded||#DIL=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+0.1_IDC_11-Pin||#DIL=11||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
 0.1_IDC_12-Pin||#DIL=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 0.1_IDC_12-Pin_Shrouded||#DIL=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 0.1_IDC_14-Pin||#DIL=14||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
@@ -24,6 +25,7 @@
 16x5_PrototypeGrid_NoGap||#DIL=160||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 20x5_PrototypeGrid||#DIL=200||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 22-03-5035||#DIL=3||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=Molex||@Manufacturer_Part_Number=22-03-5035||@Other Part Number=538-22-03-5035||@3D Package=||@Height=
+22x4_PrototypeGrid||#DIL=176||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 71-CRCW0402-26.7K-E3||#SM=0||@Manufacturer_Part_Number=CRCW040226K7FKED||@Manufacturer_Name=Vishay / Dale||@RS Part Number=||@Allied_Number=||@Other Part Number=71-CRCW0402-26.7K-E3||@3D Package=||@Height=
 4820P-T01-331LF||#SM=20||@Manufacturer_Part_Number=4820P-T01-331LF||@Manufacturer_Name=Bourns||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=||@Mouser Part Number=652-4820P-T1LF-330
 72309-8014BLF||#DIL=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
@@ -77,6 +79,7 @@ NCP1117DT50RKG||#SM=3||@Manufacturer_Part_Number=NCP1117DT50RKG||@Manufacturer_N
 NCP1117ST18T3G||#SM=4||@Manufacturer_Part_Number=NCP1117ST18T3G||@Manufacturer_Name=ON Semiconductor||@RS Part Number=||@Allied_Number=||@Other Part Number=863-NCP1117ST18T3G||@3D Package=||@Height=
 NCP1117ST33T3G||#SM=4||@Manufacturer_Part_Number=NCP1117ST33T3G||@Manufacturer_Name=ON Semiconductor||@RS Part Number=||@Allied_Number=||@Other Part Number=863-NCP1117ST33T3G||@3D Package=||@Height=
 NCP1117ST50T3G||#SM=4||@Manufacturer_Part_Number=NCP1117ST50T3G||@Manufacturer_Name=ON Semiconductor||@RS Part Number=||@Allied_Number=||@Other Part Number=863-NCP1117ST50T3G||@3D Package=||@Height=
+NRT_GROVE-SMD320110030||#4P-SMD-2=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 NX3225SA||#SM=4||@Manufacturer_Part_Number=||@Manufacturer_Name=NDK||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 PH1125-3106G0S1160||#DIL=18||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=WinPin||@Manufacturer_Part_Number=PH1125-3106G0S11601||@Other Part Number=||@3D Package=||@Height=
 PH1125-3111G0S1160||#DIL=33||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=WinPin||@Manufacturer_Part_Number=PH1125-3111G0S11601||@Other Part Number=||@3D Package=||@Height=

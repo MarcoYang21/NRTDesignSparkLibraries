@@ -25,6 +25,7 @@
 4SIL||4
 4SIL_Shrouded||4
 4x8_ProtoGrid_NoGap||32
+4x22_ProtoGrid||176
 5SIL||5
 5SIL_Shrouded||5
 5x14_ProtoGrid||140
@@ -33,6 +34,7 @@
 8SIL||8
 8SIL_Shrouded||8
 10SIL_Shrouded||10
+11SIL||11
 12SIL||12
 12SIL_Shrouded||12
 14SIL_NoOutline||14
@@ -60,6 +62,7 @@ IDC_8x2_100Thou||8
 IDC_20x2_100Thou||40
 LM1085||4
 NCP1117-SOT-223||4
+NRT_4P_SMD-2||6
 NX3225SA||4
 POWERSUPPLY_DC-21MM||9
 POWER_JACK_PTH_BREAD_NT||3
