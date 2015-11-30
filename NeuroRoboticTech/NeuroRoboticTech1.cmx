@@ -57,9 +57,12 @@ GTL2003||#SM=20||@Manufacturer_Part_Number=GTL2010PW,118||@Manufacturer_Name=NXP
 GTL2010||#SM=24||@Manufacturer_Part_Number=GTL2010PW,118||@Manufacturer_Name=NXP Semiconductors||@RS Part Number=||@Allied_Number=||@Other Part Number=771-GTL2010PW118||@3D Package=||@Height=||@Mouser Part Number=771-GTL2010PW118
 IDC_Through_4x2_100Thou||#DIL=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 IDC_Through_8x2_100Thou||#DIL=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
-IDC_Through_20x2_100Thou||#DIL=40||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+IDC_Through_20x2_100Thou||#DIL=40||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+IDC_Through_25x1_2mm||#DIL=25||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+IDC_Through_25x1_2mm_Flip||#DIL=25||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
 IDC_Through_25x2_2mm||#DIL=50||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 IDC_Through_25x2_2mm_Flip||#DIL=50||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+LM1085IT-12||#SOL=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 LMK212B7106KG-TD||#SM=0||@Manufacturer_Part_Number=LMK212B7106KG-TD||@Manufacturer_Name=Taiyo Yuden||@RS Part Number=||@Allied_Number=||@Other Part Number=963-LMK212B7106KG-TD||@3D Package=||@Height=
 M1x9_NO_SILK||#DIL=9||@Manufacturer_Part_Number=69190-209HLF||@Manufacturer_Name=FCI||@RS Part Number=||@Allied_Number=||@Other Part Number=649-69190-209HLF||@3D Package=||@Height=
 M1x10_NO_SILK||#DIL=10||@Manufacturer_Part_Number=69190-410HLF||@Manufacturer_Name=FCI||@RS Part Number=||@Allied_Number=||@Other Part Number=649-69190-410HLF||@3D Package=||@Height=
