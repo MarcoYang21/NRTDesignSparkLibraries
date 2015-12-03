@@ -59,7 +59,9 @@ GSB311231HR||#DIL=22||@Manufacturer_Part_Number=GSB311231HR||@Manufacturer_Name=
 GTL2003||#SM=20||@Manufacturer_Part_Number=GTL2010PW,118||@Manufacturer_Name=NXP Semiconductors||@RS Part Number=||@Allied_Number=||@Other Part Number=771-GTL2010PW118||@3D Package=||@Height=||@Mouser Part Number=771-GTL2010PW118
 GTL2010||#SM=24||@Manufacturer_Part_Number=GTL2010PW,118||@Manufacturer_Name=NXP Semiconductors||@RS Part Number=||@Allied_Number=||@Other Part Number=771-GTL2010PW118||@3D Package=||@Height=||@Mouser Part Number=771-GTL2010PW118
 IDC_Through_4x2_100Thou||#DIL=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+IDC_Through_6x2_100Thou||#DIL=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 IDC_Through_8x2_100Thou||#DIL=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+IDC_Through_10x2_100Thou||#DIL=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 IDC_Through_20x2_100Thou||#DIL=40||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
 IDC_Through_25x1_2mm||#DIL=25||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
 IDC_Through_25x1_2mm_Flip||#DIL=25||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=

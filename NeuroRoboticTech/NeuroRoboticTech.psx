@@ -18,6 +18,7 @@
 2X18||36
 3SIL||3
 3SIL_NO_SILK||3
+3x2_SIL||6
 3X6_NO_SILK_NT||18
 3X11_NO_SILK_NT||33
 3X12_NO_SILK_NT||36
@@ -28,6 +29,7 @@
 4x22_ProtoGrid||176
 5SIL||5
 5SIL_Shrouded||5
+5x2_SIL||10
 5x14_ProtoGrid||140
 5x16_ProtoGrid_NoGap||160
 5x20_ProtoGrid||200
