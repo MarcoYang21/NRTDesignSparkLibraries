@@ -68,6 +68,7 @@ IDC_Through_25x1_2mm||#DIL=25||@RS Part Number=||@Allied_Number=||@Manufacturer_
 IDC_Through_25x1_2mm_Flip||#DIL=25||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
 IDC_Through_25x2_2mm||#DIL=50||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 IDC_Through_25x2_2mm_Flip||#DIL=50||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+INDUCTOR_SRP1265A||#SRP1265A=2||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=Bourns||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
 LM1085IT-12||#SOL=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 LMK212B7106KG-TD||#SM=0||@Manufacturer_Part_Number=LMK212B7106KG-TD||@Manufacturer_Name=Taiyo Yuden||@RS Part Number=||@Allied_Number=||@Other Part Number=963-LMK212B7106KG-TD||@3D Package=||@Height=
 M1x9_NO_SILK||#DIL=9||@Manufacturer_Part_Number=69190-209HLF||@Manufacturer_Name=FCI||@RS Part Number=||@Allied_Number=||@Other Part Number=649-69190-209HLF||@3D Package=||@Height=
@@ -84,6 +85,9 @@ NCP1117ST18T3G||#SM=4||@Manufacturer_Part_Number=NCP1117ST18T3G||@Manufacturer_N
 NCP1117ST33T3G||#SM=4||@Manufacturer_Part_Number=NCP1117ST33T3G||@Manufacturer_Name=ON Semiconductor||@RS Part Number=||@Allied_Number=||@Other Part Number=863-NCP1117ST33T3G||@3D Package=||@Height=
 NCP1117ST50T3G||#SM=4||@Manufacturer_Part_Number=NCP1117ST50T3G||@Manufacturer_Name=ON Semiconductor||@RS Part Number=||@Allied_Number=||@Other Part Number=863-NCP1117ST50T3G||@3D Package=||@Height=
 NRT_GROVE-SMD320110030||#4P-SMD-2=6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+NR_CAP_Dia_4mm_Gap_1mm||#PANASONIC_D=2||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+NR_CAP_Dia_16mm_Gap_7mm||#PANASONIC_D=2||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+NR_DO-201AA||#DSC=2||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Value=||@Other Part Number=||@3D Package=||@Height=||#MISC=2||@Value=2N0000||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 NX3225SA||#SM=4||@Manufacturer_Part_Number=||@Manufacturer_Name=NDK||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 PH1125-3104G0S1160||#DIL=12||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=WinPin||@Manufacturer_Part_Number=PH1125-3104G0S11601||@Other Part Number=||@3D Package=||@Height=||@OurPCB Part Number=PH1125-3104G0S11601
 PH1125-3106G0S1160||#DIL=18||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=WinPin||@Manufacturer_Part_Number=PH1125-3106G0S11601||@Other Part Number=||@3D Package=||@Height=
