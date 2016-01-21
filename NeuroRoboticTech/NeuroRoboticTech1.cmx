@@ -90,6 +90,7 @@ NR_CAP_Dia_4mm_Gap_1mm||#PANASONIC_D=2||@RS Part Number=||@Allied_Number=||@Manu
 NR_CAP_Dia_16mm_Gap_7mm||#PANASONIC_D=2||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
 NR_CAP_UST||#CPOL-RADIAL-100UF-25V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 NR_DO-201AA||#DSC=2||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Value=||@Other Part Number=||@3D Package=||@Height=||#MISC=2||@Value=2N0000||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+NR_DO-201AA_Large||#DSC=2||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Value=||@Other Part Number=||@3D Package=||@Height=||#MISC=2||@Value=2N0000||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 NR_M13X22X13||#2X13=26||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
 NX3225SA||#SM=4||@Manufacturer_Part_Number=||@Manufacturer_Name=NDK||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 PH1125-3104G0S1160||#DIL=12||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=WinPin||@Manufacturer_Part_Number=PH1125-3104G0S11601||@Other Part Number=||@3D Package=||@Height=||@OurPCB Part Number=PH1125-3104G0S11601
